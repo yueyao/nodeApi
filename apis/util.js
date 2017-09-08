@@ -5,7 +5,7 @@
  * util 模块
  * util 模块主要用于支持 Node.js 内部 API 的需求。 大部分实用工具也可用于应用程序与模块开发者。
  */
-const util = require('util');
+const util = require('apis/util');
 const fs = require('fs');
 
 console.log(process)
