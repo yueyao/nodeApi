@@ -1,7 +1,7 @@
 /**
  * Created by hebo on 2017/9/7.
  */
-const {Console} = require('apis/console');
+const {Console} = require('console');
 console.dir(console);
 /**
  * console
